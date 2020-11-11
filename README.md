@@ -1,4 +1,3 @@
 # dianalelya
-Diana Lelya Website
-12324426
+SCHOOL PROJECT ON COVID-19
 
